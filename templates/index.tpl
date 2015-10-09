@@ -1,4 +1,4 @@
-{include file="header.tpl" title="miNotes"}
+{include file="header.tpl" title="miNotes" Name="Keylor Note's"}
 
 <div id="container">
     
